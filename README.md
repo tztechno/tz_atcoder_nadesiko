@@ -1,3 +1,3 @@
-# tz_atcoder_nadeshiko
+# tz_atcoder_nadesi
 
 https://nadesi.com/
