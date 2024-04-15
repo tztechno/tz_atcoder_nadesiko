@@ -1,4 +1,4 @@
-//abc175_a rainy.ks
+//abc175_a rainy.nako
 
 入力を尋ねて、Aに代入。
 DP = [0, 0, 0, 0]
