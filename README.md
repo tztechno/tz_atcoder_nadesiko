@@ -1,4 +1,4 @@
-# tz_atcoder_nadesi
+# tz_atcoder_nadesiko
 
 なでしこ
 
